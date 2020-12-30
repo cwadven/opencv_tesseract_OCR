@@ -15,7 +15,7 @@
 </p>
 
 ~~~
-왼쪽 위에 있는 메뉴 탭에서 '이미지불러오기'를 클릭한 후, Open을 이용하여 연다.
+왼쪽 위에 있는 메뉴 탭에서 '이미지불러오기'를 클릭한 후, Open을 이용하여 이미지를 연다.
 ~~~
 
 <h3 align="center">불러온 이미지 영역 설정</h3>
@@ -34,6 +34,12 @@
 
 ~~~
 키보드 'c'를 눌러 텍스트화 시킨다.
+
+ESC : 불러온 이미지 작업 종료
+c : 영역 이미지 텍스트화
+m : 바로 전에 선택한 영역 지우기
+d : Select_Area 창 닫기
+r : 모든 선택 영역 지우기
 ~~~
 
 <h3 align="center">이미지 텍스트화2</h3>
@@ -74,6 +80,7 @@ https://github.com/tesseract-ocr/tesseract/wiki
 
 [실행 파일 사용 방법]
 1. 다운로드 링크 : 
+https://github.com/cwadven/opencv_tesseract_OCR/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80_%ED%85%8D%EC%8A%A4%ED%8A%B8%ED%99%94(%ED%95%9C%EA%B8%80).zip
 2. 압축파일 풀기 및 사용방법.txt 참조
 3. 위의 '필요 소프트웨어 tesseract-ocr' 다운로드 및 설치
 
