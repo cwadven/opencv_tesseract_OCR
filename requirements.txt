@@ -1,5 +1,5 @@
 altgraph==0.17
-future==0.18.2
+future==0.18.3
 numpy==1.18.4
 opencv-python==4.2.0.34
 pefile==2019.4.18
